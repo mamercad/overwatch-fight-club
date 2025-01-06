@@ -2,7 +2,7 @@
 
 > So, after watching the POTG, that player can say the words, "by the rules of Overwatch Fight Club, I, `<gamertag>`, decree that the next match be played by the rules of **ALL ULTS**".
 
-The first rule of Overwatch Fight Club (OFC) is ~~"you do not talk about Fight Club"~~ is "the player that got the Play of the Game can call the meta-game to be played in the upcoming match". OFC came about organically on the evening of January 4th, 2025. Mark, Mike, and Phil were playing the time-limited reboot of "6v6" and, on a lark, Mark and Phil decided to do **double dive tanks** with the following caveats (highest-to-lowest precedence):
+The first rule of Overwatch Fight Club (OFC) is ~~"you do not talk about Fight Club"~~ is "the player that got the Play of the Game (POTG) can call the meta-game to be played in the upcoming match". OFC came about organically on the evening of January 4th, 2025. Mark, Mike, and Phil were playing the time-limited reboot of "6v6" and, on a lark, Mark and Phil decided to do **double dive tanks** with the following caveats (highest-to-lowest precedence):
 
 * Must always run two (2) dive tanks.
 * Must always prioritize winning:
@@ -23,4 +23,6 @@ The hope is that OFC, in the spirit of _the_ Fight Club, spreads organically, i.
 * _SHIELDS ONLY_ - Every member of the Fight Club must use a hero that has a shield, for example: Rein, Sigma, Brig, etc.
 * _ALL DIVE_ - All dive heros!
 * _SANTA_ - All heros that place objects on the map: Sym's and Torb for their turrets, Hog and Junk for their traps, etc.
-* _RACE TO SPAWN_ Your priority is touching the enemy spawn door ("race") before the other OFC members. For a twist consider adding on "no pew-pew", i.e., absolutely no shooting (melee is fine) until you have touched the enemy spawn door (also, at this time, you say "SPAWN RACE WINNER" in voice comms).
+* _RACE TO SPAWN_ - Your priority is touching the enemy spawn door ("race") before the other OFC members. For a twist consider adding on "no pew-pew", i.e., absolutely no shooting (melee is fine) until you have touched the enemy spawn door (also, at this time, you say "SPAWN RACE WINNER" in voice comms).
+* _MAP HEROS_ - Heros which match the style or mood of the map. For example, for "New Junk City", Junk Rat, Junker Queen, Road Hog all work. Map-themed skins also work - as an example, if you have a Lucio skin themed for the "Junk Universe", that works as well.
+* _BEAM HEROS_ Heros which have a beam. Examples include Symmetra, Zarya, Moira (her ultimate), etc.
