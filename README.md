@@ -2,7 +2,7 @@
 
 > So, after watching the POTG, that player can say the words, "by the rules of Overwatch Fight Club, I, `<gamertag>`, decree that the next match be played by the rules of **ALL ULTS**".
 
-The first rule of Overwatch Fight Club (OFC) is ~~"you do not talk about Fight Club"~~ is "the player that got the Play of the Game (POTG) can call the meta-game to be played in the upcoming match". OFC came about organically on the evening of January 4th, 2025. Mark, Mike, and Phil were playing the time-limited reboot of "6v6" and, on a lark, Mark and Phil decided to do **double dive tanks** with the following caveats (highest-to-lowest precedence):
+The first rule of Overwatch Fight Club (OFC) is ~~"you do not talk about Fight Club"~~ is "the player that got the Play of the Game (POTG) can call the meta-game to be played in the upcoming match". (If the POTG happens on the last game of the night, that player can call the first game of the subsequent session.) OFC came about organically on the evening of January 4th, 2025. Mark, Mike, and Phil were playing the time-limited reboot of "6v6" and, on a lark, Mark and Phil decided to do **double dive tanks** with the following caveats (highest-to-lowest precedence):
 
 * Must always run two (2) dive tanks.
 * Must always prioritize winning:
